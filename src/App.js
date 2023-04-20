@@ -14,7 +14,8 @@ export default function App() {
     if (token) {
       fetchPlaylists();
     }
-  }, []);
+  }, []); 
+  
 
   const fetchPlaylists = async () => {
     try {

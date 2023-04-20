@@ -10,4 +10,4 @@ https://github.com/labenuexercicios/deploy-template-backend
 2. No repositório com seu nome de usuário, copie a url.
 3. Abra a pasta onde você guarda os materiais do curso pelo terminal.
 4. Baixe o repositório usando: git clone url-copiada.
-5. Abra a pasta no vscode. Vamos codar!
+5. Abra a pasta no vscode. Vamos codar!!
